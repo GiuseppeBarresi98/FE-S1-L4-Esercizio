@@ -2,7 +2,7 @@
 
 /* IMPOSTAZIONI GENERALI */
 body {
-  background-image: url(/assets/img/sfondo.png);
+  background-image: url(../img/sfondo.png);
   font-family: "Poppins", sans-serif;
   text-align: center;
   font-weight: 500;
